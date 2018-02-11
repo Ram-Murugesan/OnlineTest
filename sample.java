@@ -8,5 +8,6 @@ Scanner scanner=new Scanner();
 System.out.println("enter a value");
 a=Scanner.next Int();
 System.out.println("given value="+a);
+  Sysdfsadfewf
 }
 }
